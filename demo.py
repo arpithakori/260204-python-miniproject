@@ -1,0 +1,1 @@
+print("LTTS mini project")
